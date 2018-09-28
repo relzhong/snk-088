@@ -1,0 +1,196 @@
+[2018-09-28 17:55:20.961][node.exe][21440]---打开串口---
+[2018-09-28 17:55:20.964][node.exe][21440]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 17:55:20.969][node.exe][21440]---关闭串口---
+[2018-09-28 17:55:20.969][node.exe][21440]CloseCom
+[2018-09-28 17:55:32.750][node.exe][1748]---打开串口---
+[2018-09-28 17:55:32.750][node.exe][1748]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 17:55:32.756][node.exe][1748]---打开键盘仿真---
+[2018-09-28 17:55:32.756][node.exe][1748]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x00
+[2018-09-28 17:55:32.801][node.exe][1748]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 17:55:32.806][node.exe][1748]---关闭串口---
+[2018-09-28 17:55:32.807][node.exe][1748]CloseCom
+[2018-09-28 17:58:37.994][node.exe][15912]---打开串口---
+[2018-09-28 17:58:38.007][node.exe][15912]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 17:58:38.014][node.exe][15912]---关闭串口---
+[2018-09-28 17:58:38.015][node.exe][15912]CloseCom
+[2018-09-28 18:00:17.827][node.exe][16848]---打开串口---
+[2018-09-28 18:00:17.848][node.exe][16848]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 18:00:17.853][node.exe][16848]---打开键盘仿真---
+[2018-09-28 18:00:17.853][node.exe][16848]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x03
+[2018-09-28 18:00:17.897][node.exe][16848]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 18:00:17.901][node.exe][16848]---关闭串口---
+[2018-09-28 18:00:17.901][node.exe][16848]CloseCom
+[2018-09-28 18:14:27.557][node.exe][17876]---打开串口---
+[2018-09-28 18:14:27.571][node.exe][17876]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 18:14:27.571][node.exe][17876]---打开键盘仿真---
+[2018-09-28 18:14:27.571][node.exe][17876]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x03
+[2018-09-28 18:14:27.619][node.exe][17876]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 18:14:27.623][node.exe][17876]---设置算法处理参数---
+[2018-09-28 18:14:27.624][node.exe][17876]SUNSON_SetAlgorithmParameter,PPara = 0x01,FPara = 0x10
+[2018-09-28 18:14:27.747][node.exe][17876]SUNSON_SetAlgorithmParameter, result = 0x04(成功)
+[2018-09-28 18:14:27.811][node.exe][17876]---关闭串口---
+[2018-09-28 18:14:27.811][node.exe][17876]CloseCom
+[2018-09-28 18:17:44.040][node.exe][9432]---打开串口---
+[2018-09-28 18:17:44.056][node.exe][9432]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 18:17:44.056][node.exe][9432]---打开键盘仿真---
+[2018-09-28 18:17:44.056][node.exe][9432]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x03
+[2018-09-28 18:17:44.104][node.exe][9432]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 18:17:44.108][node.exe][9432]---设置算法处理参数---
+[2018-09-28 18:17:44.109][node.exe][9432]SUNSON_SetAlgorithmParameter,PPara = 0x01,FPara = 0x10
+[2018-09-28 18:17:44.226][node.exe][9432]SUNSON_SetAlgorithmParameter, result = 0x04(成功)
+[2018-09-28 18:17:44.291][node.exe][9432]---关闭串口---
+[2018-09-28 18:17:44.291][node.exe][9432]CloseCom
+[2018-09-28 18:17:59.739][node.exe][3996]---打开串口---
+[2018-09-28 18:17:59.745][node.exe][3996]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 18:17:59.755][node.exe][3996]---打开键盘仿真---
+[2018-09-28 18:17:59.757][node.exe][3996]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x03
+[2018-09-28 18:17:59.799][node.exe][3996]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 18:17:59.804][node.exe][3996]---设置算法处理参数---
+[2018-09-28 18:17:59.804][node.exe][3996]SUNSON_SetAlgorithmParameter,PPara = 0x01,FPara = 0x10
+[2018-09-28 18:17:59.926][node.exe][3996]SUNSON_SetAlgorithmParameter, result = 0x04(成功)
+[2018-09-28 18:17:59.926][node.exe][3996]---获取按下的按键键值---
+[2018-09-28 18:17:59.926][node.exe][3996]SUNSON_ScanKeyPress success, ucKeyValue = 56
+[2018-09-28 18:17:59.926][node.exe][3996]---关闭串口---
+[2018-09-28 18:17:59.926][node.exe][3996]CloseCom
+[2018-09-28 18:23:25.766][node.exe][7072]---打开串口---
+[2018-09-28 18:23:25.774][node.exe][7072]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 18:23:25.777][node.exe][7072]---打开键盘仿真---
+[2018-09-28 18:23:25.777][node.exe][7072]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x03
+[2018-09-28 18:23:25.821][node.exe][7072]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 18:23:25.825][node.exe][7072]---设置算法处理参数---
+[2018-09-28 18:23:25.826][node.exe][7072]SUNSON_SetAlgorithmParameter,PPara = 0x01,FPara = 0x10
+[2018-09-28 18:23:25.949][node.exe][7072]SUNSON_SetAlgorithmParameter, result = 0x04(成功)
+[2018-09-28 18:23:26.015][node.exe][7072]---关闭串口---
+[2018-09-28 18:23:26.016][node.exe][7072]CloseCom
+[2018-09-28 18:23:29.667][node.exe][10500]---打开串口---
+[2018-09-28 18:23:29.672][node.exe][10500]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 18:23:29.675][node.exe][10500]---打开键盘仿真---
+[2018-09-28 18:23:29.676][node.exe][10500]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x03
+[2018-09-28 18:23:29.704][node.exe][10500]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 18:23:29.708][node.exe][10500]---设置算法处理参数---
+[2018-09-28 18:23:29.708][node.exe][10500]SUNSON_SetAlgorithmParameter,PPara = 0x01,FPara = 0x10
+[2018-09-28 18:23:29.832][node.exe][10500]SUNSON_SetAlgorithmParameter, result = 0x04(成功)
+[2018-09-28 18:23:29.848][node.exe][10500]---获取按下的按键键值---
+[2018-09-28 18:23:29.848][node.exe][10500]SUNSON_ScanKeyPress success, ucKeyValue = 56
+[2018-09-28 18:23:29.851][node.exe][10500]---关闭串口---
+[2018-09-28 18:23:29.851][node.exe][10500]CloseCom
+[2018-09-28 18:23:36.858][node.exe][13564]---打开串口---
+[2018-09-28 18:23:36.866][node.exe][13564]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 18:23:36.869][node.exe][13564]---打开键盘仿真---
+[2018-09-28 18:23:36.869][node.exe][13564]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x03
+[2018-09-28 18:23:36.913][node.exe][13564]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 18:23:36.917][node.exe][13564]---设置算法处理参数---
+[2018-09-28 18:23:36.918][node.exe][13564]SUNSON_SetAlgorithmParameter,PPara = 0x01,FPara = 0x10
+[2018-09-28 18:23:37.041][node.exe][13564]SUNSON_SetAlgorithmParameter, result = 0x04(成功)
+[2018-09-28 18:23:37.089][node.exe][13564]---获取按下的按键键值---
+[2018-09-28 18:23:37.089][node.exe][13564]SUNSON_ScanKeyPress success, ucKeyValue = 13
+[2018-09-28 18:23:37.093][node.exe][13564]---关闭串口---
+[2018-09-28 18:23:37.093][node.exe][13564]CloseCom
+[2018-09-28 18:23:40.681][node.exe][6120]---打开串口---
+[2018-09-28 18:23:40.685][node.exe][6120]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 18:23:40.687][node.exe][6120]---打开键盘仿真---
+[2018-09-28 18:23:40.688][node.exe][6120]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x03
+[2018-09-28 18:23:40.716][node.exe][6120]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 18:23:40.720][node.exe][6120]---设置算法处理参数---
+[2018-09-28 18:23:40.720][node.exe][6120]SUNSON_SetAlgorithmParameter,PPara = 0x01,FPara = 0x10
+[2018-09-28 18:23:40.844][node.exe][6120]SUNSON_SetAlgorithmParameter, result = 0x04(成功)
+[2018-09-28 18:23:40.860][node.exe][6120]---获取按下的按键键值---
+[2018-09-28 18:23:40.860][node.exe][6120]SUNSON_ScanKeyPress success, ucKeyValue = 8
+[2018-09-28 18:23:40.865][node.exe][6120]---关闭串口---
+[2018-09-28 18:23:40.866][node.exe][6120]CloseCom
+[2018-09-28 18:23:44.023][node.exe][13708]---打开串口---
+[2018-09-28 18:23:44.037][node.exe][13708]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 18:23:44.043][node.exe][13708]---打开键盘仿真---
+[2018-09-28 18:23:44.043][node.exe][13708]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x03
+[2018-09-28 18:23:44.088][node.exe][13708]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 18:23:44.092][node.exe][13708]---设置算法处理参数---
+[2018-09-28 18:23:44.093][node.exe][13708]SUNSON_SetAlgorithmParameter,PPara = 0x01,FPara = 0x10
+[2018-09-28 18:23:44.213][node.exe][13708]SUNSON_SetAlgorithmParameter, result = 0x04(成功)
+[2018-09-28 18:23:44.283][node.exe][13708]---关闭串口---
+[2018-09-28 18:23:44.283][node.exe][13708]CloseCom
+[2018-09-28 18:23:47.606][node.exe][9828]---打开串口---
+[2018-09-28 18:23:47.619][node.exe][9828]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 18:23:47.623][node.exe][9828]---打开键盘仿真---
+[2018-09-28 18:23:47.624][node.exe][9828]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x03
+[2018-09-28 18:23:47.667][node.exe][9828]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 18:23:47.671][node.exe][9828]---设置算法处理参数---
+[2018-09-28 18:23:47.671][node.exe][9828]SUNSON_SetAlgorithmParameter,PPara = 0x01,FPara = 0x10
+[2018-09-28 18:23:47.793][node.exe][9828]SUNSON_SetAlgorithmParameter, result = 0x04(成功)
+[2018-09-28 18:23:47.866][node.exe][9828]---关闭串口---
+[2018-09-28 18:23:47.867][node.exe][9828]CloseCom
+[2018-09-28 18:23:50.603][node.exe][12880]---打开串口---
+[2018-09-28 18:23:50.625][node.exe][12880]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 18:23:50.628][node.exe][12880]---打开键盘仿真---
+[2018-09-28 18:23:50.629][node.exe][12880]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x03
+[2018-09-28 18:23:50.672][node.exe][12880]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 18:23:50.676][node.exe][12880]---设置算法处理参数---
+[2018-09-28 18:23:50.677][node.exe][12880]SUNSON_SetAlgorithmParameter,PPara = 0x01,FPara = 0x10
+[2018-09-28 18:23:50.793][node.exe][12880]SUNSON_SetAlgorithmParameter, result = 0x04(成功)
+[2018-09-28 18:23:50.822][node.exe][12880]---获取按下的按键键值---
+[2018-09-28 18:23:50.822][node.exe][12880]SUNSON_ScanKeyPress success, ucKeyValue = 27
+[2018-09-28 18:23:50.833][node.exe][12880]---关闭串口---
+[2018-09-28 18:23:50.833][node.exe][12880]CloseCom
+[2018-09-28 18:24:00.223][node.exe][9088]---打开串口---
+[2018-09-28 18:24:00.248][node.exe][9088]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 18:24:00.250][node.exe][9088]---打开键盘仿真---
+[2018-09-28 18:24:00.251][node.exe][9088]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x03
+[2018-09-28 18:24:00.294][node.exe][9088]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 18:24:00.298][node.exe][9088]---设置算法处理参数---
+[2018-09-28 18:24:00.299][node.exe][9088]SUNSON_SetAlgorithmParameter,PPara = 0x01,FPara = 0x10
+[2018-09-28 18:24:00.413][node.exe][9088]SUNSON_SetAlgorithmParameter, result = 0x04(成功)
+[2018-09-28 18:24:00.488][node.exe][9088]---关闭串口---
+[2018-09-28 18:24:00.489][node.exe][9088]CloseCom
+[2018-09-28 18:24:03.693][node.exe][9424]---打开串口---
+[2018-09-28 18:24:03.697][node.exe][9424]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 18:24:03.697][node.exe][9424]---打开键盘仿真---
+[2018-09-28 18:24:03.697][node.exe][9424]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x03
+[2018-09-28 18:24:03.731][node.exe][9424]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 18:24:03.735][node.exe][9424]---设置算法处理参数---
+[2018-09-28 18:24:03.735][node.exe][9424]SUNSON_SetAlgorithmParameter,PPara = 0x01,FPara = 0x10
+[2018-09-28 18:24:03.859][node.exe][9424]SUNSON_SetAlgorithmParameter, result = 0x04(成功)
+[2018-09-28 18:24:03.926][node.exe][9424]---关闭串口---
+[2018-09-28 18:24:03.926][node.exe][9424]CloseCom
+[2018-09-28 18:24:06.803][node.exe][2684]---打开串口---
+[2018-09-28 18:24:06.813][node.exe][2684]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 18:24:06.813][node.exe][2684]---打开键盘仿真---
+[2018-09-28 18:24:06.813][node.exe][2684]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x03
+[2018-09-28 18:24:06.864][node.exe][2684]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 18:24:06.868][node.exe][2684]---设置算法处理参数---
+[2018-09-28 18:24:06.868][node.exe][2684]SUNSON_SetAlgorithmParameter,PPara = 0x01,FPara = 0x10
+[2018-09-28 18:24:06.992][node.exe][2684]SUNSON_SetAlgorithmParameter, result = 0x04(成功)
+[2018-09-28 18:24:07.058][node.exe][2684]---关闭串口---
+[2018-09-28 18:24:07.059][node.exe][2684]CloseCom
+[2018-09-28 18:24:11.185][node.exe][19616]---打开串口---
+[2018-09-28 18:24:11.193][node.exe][19616]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 18:24:11.193][node.exe][19616]---打开键盘仿真---
+[2018-09-28 18:24:11.193][node.exe][19616]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x03
+[2018-09-28 18:24:11.241][node.exe][19616]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 18:24:11.246][node.exe][19616]---设置算法处理参数---
+[2018-09-28 18:24:11.246][node.exe][19616]SUNSON_SetAlgorithmParameter,PPara = 0x01,FPara = 0x10
+[2018-09-28 18:24:11.364][node.exe][19616]SUNSON_SetAlgorithmParameter, result = 0x04(成功)
+[2018-09-28 18:24:11.436][node.exe][19616]---关闭串口---
+[2018-09-28 18:24:11.437][node.exe][19616]CloseCom
+[2018-09-28 18:24:14.113][node.exe][17280]---打开串口---
+[2018-09-28 18:24:14.117][node.exe][17280]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 18:24:14.117][node.exe][17280]---打开键盘仿真---
+[2018-09-28 18:24:14.123][node.exe][17280]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x03
+[2018-09-28 18:24:14.150][node.exe][17280]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 18:24:14.154][node.exe][17280]---设置算法处理参数---
+[2018-09-28 18:24:14.155][node.exe][17280]SUNSON_SetAlgorithmParameter,PPara = 0x01,FPara = 0x10
+[2018-09-28 18:24:14.279][node.exe][17280]SUNSON_SetAlgorithmParameter, result = 0x04(成功)
+[2018-09-28 18:24:14.281][node.exe][17280]---获取按下的按键键值---
+[2018-09-28 18:24:14.282][node.exe][17280]SUNSON_ScanKeyPress success, ucKeyValue = 27
+[2018-09-28 18:24:14.282][node.exe][17280]---关闭串口---
+[2018-09-28 18:24:14.282][node.exe][17280]CloseCom
+[2018-09-28 18:27:09.282][node.exe][3988]---打开串口---
+[2018-09-28 18:27:09.292][node.exe][3988]OpenCom nPort = 3,nBaud = 9600,success
+[2018-09-28 18:27:09.292][node.exe][3988]---打开键盘仿真---
+[2018-09-28 18:27:09.292][node.exe][3988]SUNSON_UsePlainKeyboard,ucTextModeFormat = 0x03
+[2018-09-28 18:27:09.342][node.exe][3988]SUNSON_UsePlainKeyboard, result = 0x04(成功)
+[2018-09-28 18:27:09.344][node.exe][3988]---设置算法处理参数---
+[2018-09-28 18:27:09.344][node.exe][3988]SUNSON_SetAlgorithmParameter,PPara = 0x01,FPara = 0x10
+[2018-09-28 18:27:09.470][node.exe][3988]SUNSON_SetAlgorithmParameter, result = 0x04(成功)
+[2018-09-28 18:27:09.472][node.exe][3988]---获取按下的按键键值---
+[2018-09-28 18:27:09.473][node.exe][3988]SUNSON_ScanKeyPress success, ucKeyValue = 27
+[2018-09-28 18:27:09.475][node.exe][3988]---关闭串口---
+[2018-09-28 18:27:09.475][node.exe][3988]CloseCom
