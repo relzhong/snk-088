@@ -22,6 +22,11 @@ describe('test com port connect', () => {
     console.log(res);
     assert(res.error === 0);
   });
+  it('should reset keyboard successfully', () => {
+    const res = libsnk.UseEppPlainTextMode(0x00);
+    console.log(res);
+    assert(res.error === 0);
+  });
   after(() => {
     libsnk.CloseCom();
   });
