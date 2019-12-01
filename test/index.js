@@ -61,12 +61,17 @@ describe('test keyboard crypto', () => {
     assert(res.error === 0);
   });
   it('should decrypt data successfully', () => {
-    const res = libsnk.DataEncrypt(encryptedData);
+    const res = libsnk.DataDecrypt(encryptedData);
     console.log(res);
     assert(res.error === 0);
   });
   it('should calc mac successfully', () => {
-    const res = libsnk.MakeX99ECBMac('1234567812345678');
+    let res;
+    res = libsnk.SetAlgorithmParameter(0x07, 0x10);
+    assert(res.error === 0);
+    res = libsnk.ActiveKey(0x00, 0x01);
+    assert(res.error === 0);
+    res = libsnk.MakeX99ECBMac('1234567812345678');
     console.log(res);
     assert(res.error === 0);
   });
